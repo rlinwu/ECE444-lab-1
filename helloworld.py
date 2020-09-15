@@ -1,1 +1,1 @@
-print("Linda Wu")
+print("5 years")
